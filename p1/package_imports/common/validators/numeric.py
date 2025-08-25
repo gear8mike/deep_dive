@@ -7,3 +7,11 @@ def is_integer(arg):
 
 def is_numeric(arg):
     pass
+
+
+def numeric_helper_1(arg):
+    pass
+
+
+def numeric_helper_2(arg):
+    pass
