@@ -1,7 +1,10 @@
 # user.py
 
+__all__ = ["User"]
+
 
 class User:
+    print("User is created")
     pass
 
 
