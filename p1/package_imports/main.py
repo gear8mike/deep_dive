@@ -15,6 +15,6 @@ posts = models.Posts()
 #     print(k)
 
 
-# print('\n\n----validators-----\n\n')
-# for k in validators.__dict__.keys():
-#     print(k)
+print('\n\n----validators-----\n\n')
+for k in validators.__dict__.keys():
+    print(k)
